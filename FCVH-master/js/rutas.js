@@ -11,30 +11,30 @@ var menu =[
     route:'/historia',
     inmenu:true
   },
-  {
-    title:'Pasión',
-    url:'template/pasion.html',
-    route:'/pasion',
-    inmenu:true
-  },
+  // {
+  //   title:'Pasión',
+  //   url:'template/pasion.html',
+  //   route:'/pasion',
+  //   inmenu:true
+  // },
   {
     title:'Tienda',
     url:'template/shop.html',
     route:'/shop',
     inmenu:true
   },
-  {
-    title:'Contacto',
-    url:'template/contacto.html',
-    route:'/contacto',
-    inmenu:true
-  },
-      {
-    title:'Asociate',
-    url:'template/socio.html',
-    route:'/socio',
-    inmenu:true
-  },
+  // {
+  //   title:'Contacto',
+  //   url:'template/contacto.html',
+  //   route:'/contacto',
+  //   inmenu:true
+  // },
+  //     {
+  //   title:'Asociate',
+  //   url:'template/socio.html',
+  //   route:'/socio',
+  //   inmenu:true
+  // },
   {
     title:'404',
     url:'template/404.html',
